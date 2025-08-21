@@ -1,0 +1,10 @@
+# Task Manager Application Requirements
+# All dependencies are part of Python standard library
+
+# Core dependencies (included with Python):
+# - tkinter (GUI framework)
+# - sqlite3 (database)
+# - datetime (date/time handling)
+# - os (operating system interface)
+
+# No external packages required - everything is built-in!
